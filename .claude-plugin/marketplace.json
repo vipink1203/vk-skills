@@ -1,0 +1,17 @@
+{
+  "name": "vk-skills",
+  "owner": {
+    "name": "Vipin Kumar V",
+    "url": "https://github.com/vipink1203"
+  },
+  "description": "Agent skills for shipping real apps, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "vk-skills",
+      "source": "./",
+      "description": "Pick the right hackathon idea, pass the legal and trust gates, and show the work with a real demo video and README.",
+      "category": "productivity",
+      "keywords": ["hackathon", "compliance", "demo-video", "readme"]
+    }
+  ]
+}

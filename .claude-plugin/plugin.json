@@ -1,0 +1,17 @@
+{
+  "name": "vk-skills",
+  "version": "1.0.0",
+  "description": "Agent skills for shipping real apps: pick the right hackathon idea, pass the legal and trust gates, and show the work with a real demo video and README.",
+  "author": {
+    "name": "Vipin Kumar V",
+    "url": "https://github.com/vipink1203"
+  },
+  "repository": "https://github.com/vipink1203/vk-skills",
+  "license": "MIT",
+  "keywords": ["skills", "hackathon", "compliance", "privacy", "accessibility", "demo-video", "readme"],
+  "skills": [
+    "./skills/hackathon-ideas",
+    "./skills/app-compliance",
+    "./skills/showcase"
+  ]
+}
